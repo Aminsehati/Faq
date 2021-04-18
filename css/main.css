@@ -114,7 +114,7 @@ p{
 }
 @media screen and (max-width:767px){
     .main-content::before{
-        top: 40%;
+        top: 230px;
         left: 18%;
     }
     .main-content .Faq-img{
